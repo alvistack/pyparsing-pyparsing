@@ -1,0 +1,5 @@
+python-pyparsing (100:3.0.6-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pyparsing/pyparsing/releases/tag/pyparsing_3.0.6
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Sat, 13 Nov 2021 00:52:27 +0800
