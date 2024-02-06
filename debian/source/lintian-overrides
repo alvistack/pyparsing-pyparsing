@@ -1,0 +1,5 @@
+python-pyparsing source: file-without-copyright-information
+python-pyparsing source: no-debian-changes
+python-pyparsing source: source-contains-prebuilt-windows-binary
+python-pyparsing source: source-is-missing
+python-pyparsing source: source-package-encodes-python-version
